@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "阿毛的世界你不懂"
+subtitle: 她自己也不懂
 image: /img/QQ20180310-1.jpg
 blurb:
     heading: Why Kaldi?
