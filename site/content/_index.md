@@ -1,7 +1,7 @@
 ---
 title: "阿毛的世界你不懂"
 subtitle: 她自己也不懂
-image: /img/QQ20180310-1.jpg
+image: /img/img_3076RL.jpg
 blurb:
     heading: Why Kaldi?
     text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
