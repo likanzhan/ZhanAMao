@@ -11,7 +11,7 @@ intro:
 products:
     - image: img/logo.png
       text: "更新中..."
-    - image: /img/Amao-and-dady.png
+    - image: /img/Amao-and-dady.jpg
       text: "也在更新中..."
 values:
     heading: 关于本站
