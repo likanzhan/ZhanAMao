@@ -9,9 +9,9 @@ intro:
     heading: "阿毛来自哪里"
     text: "阿毛来自遥远的地方。"
 products:
-    - image: img/img_3101.jpg
+    - image: img/logo.png
       text: "更新中..."
-    - image: /img/logo.png
+    - image: /img/Amao-and-dady.png
       text: "也在更新中..."
 values:
     heading: 关于本站
